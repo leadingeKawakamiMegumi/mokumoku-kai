@@ -1,1 +1,4 @@
-new text
+Winpython
+https://github.com/vitroid/PythonTutorials
+USB　OK　　1Gb
+install time ~  (20200703 USB at JEOL)
